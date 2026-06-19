@@ -1,14 +1,1 @@
-{
-  "name": "server-iot-turso",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "api/server.js",
-  "scripts": {
-    "start": "node api/server.js"
-  },
-  "dependencies": {
-    "@libsql/client": "^0.6.2",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2"
-  }
-}
+
